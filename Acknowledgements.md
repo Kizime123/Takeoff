@@ -16,4 +16,6 @@ LH for throwing ideas around (an LH stinger revision is coming) [LH Wonderful Sl
 
 Team Chube for making chube!
 
+Armchair for the idea to use tubes for removing belts while maintaining tension. [Armchair's Archetype Toolhead](https://github.com/Armchair-Heavy-Industries/Archetype)
+
 All the other people too who've bounced back ideas along the way with me/ helped me learn this much!
