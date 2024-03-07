@@ -4,7 +4,7 @@ Churls for making his Chube Conduction toolhead that I used to base off my e3v2 
 
 Cbon for the initial K3 ducts which I've borrowed the geometry from for my ducting.
 
-Lastone for the cutouts idea for the bottom panel. [Store found here](https://northprint3d.ca/)
+Lastone for the cutouts idea for the bottom panel. [His Store can be found here](https://northprint3d.ca/)
 
 Mattthebaker/ Beacon man for the wonderful product [beacon](https://beacon3d.com/) + advice with my mount.
 
